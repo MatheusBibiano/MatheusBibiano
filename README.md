@@ -17,7 +17,7 @@
   <img align="center" alt="Jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jest/jest-plain.svg">
   <img align="center" alt="Cypress" height="35" width="45" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cypressio/cypressio-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="Dotnet" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
